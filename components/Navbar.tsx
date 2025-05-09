@@ -27,7 +27,7 @@ export default function Navbar() {
     <header className="bg-white shadow">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          ブログアプリ
+          ブログアプリ2
         </Link>
 
         <nav>
