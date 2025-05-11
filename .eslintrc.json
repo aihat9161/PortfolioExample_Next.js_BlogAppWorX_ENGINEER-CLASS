@@ -3,6 +3,6 @@
   "rules": {
     "no-unused-vars": "warn",            // 未使用変数に気づくことができる
     "quotes": ["error", "double"],       // ダブルクォートで統一（好みで変更OK）
-    "prefer-const": "error"           // 不変の変数はconstに
+    "prefer-const": "warn"           // 不変の変数はconstに
   }
 }
